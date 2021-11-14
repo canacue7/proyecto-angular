@@ -100,7 +100,7 @@ console.log(link.getAttribute('href'));
 
 // fata attibutes
 console.log(logo.CDATA_SECTION_NODE.versionNumber);
-
+console.log("cambio");
 const btnScrollTO= document.querySelector('.btn--scroll-to');
 const section1 = document.querySelector('#section--1');
 btnScrollTO.addEventListener('click', function(e){
